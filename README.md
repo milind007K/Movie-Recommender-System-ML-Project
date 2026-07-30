@@ -64,19 +64,16 @@ The web application is developed using **Streamlit**, while movie posters are fe
 
 ### Home Page
 
-> Add Screenshot Here
 
-```
-<img src="Screenshots/Screenshot 2026-07-30 120151.png">```
+<img src="Screenshots/Screenshot 2026-07-30 120151.png">
 
 ---
 
 ### Recommendation Result
 
 <img src="Screenshots/Screenshot 2026-07-30 120523.png">
-```
-screenshots/recommendation.png
-```
+
+
 <img src="Screenshots/Screenshot 2026-07-30 120505.png">
 ---
 
